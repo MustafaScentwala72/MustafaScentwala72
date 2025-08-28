@@ -18,21 +18,19 @@ I like turning raw data into clear answers and simple tools people can use.
 - **Fraud Detection POC**  
   End-to-end pipeline on a large transaction dataset; compared multiple models and selected XGBoost.  
   Focus on precision/recall trade-offs and a simple batch-scoring script.  
-  Repo: [add your repo link here]
+  Repo: https://github.com/MustafaScentwala72/Fraud-Detection-Model
 
 - **Accident Severity Prediction**  
   Supervised classification to predict accident severity from road, environment, and traffic features.  
-  Built a clean preprocessing pipeline, tuned models, and reported class-wise metrics with emphasis on recall for severe cases.  
-  Repo: [add your repo link here]
+  Built a clean preprocessing pipeline, tuned models, and reported class-wise metrics with emphasis on recall for severe cases. 
 
 - **MLP Learning-Rate Tuning (Nonlinear Regression)**  
   Single-hidden-layer MLP with a small learning-rate sweep; chosen rate balanced speed and generalisation.  
   Reported R2 on test with a stable generalisation gap.  
-  Repo: [add your repo link here]
+  Repo: https://github.com/MustafaScentwala72/mlp-learning-rate-tuning
 
 - **UAV Waypoint Navigation (Webots)**  
   Decentralised control for 4 drones forming shapes; PID + Kalman filter for smooth flight.  
-  Repo: [add your repo link here]
 
 ## How I work
 - Start simple. Baselines first, then iterate.
