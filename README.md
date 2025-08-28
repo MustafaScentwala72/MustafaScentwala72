@@ -41,5 +41,5 @@ I like turning raw data into clear answers and simple tools people can use.
 
 ## Contact
 - Email: mustafa.scentwala72@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/mustafa-scentwala-688a70109  
+- LinkedIn: https://www.linkedin.com/in/mustafa-scentwala-688a70109 
 - GitHub: https://github.com/MustafaScentwala72
