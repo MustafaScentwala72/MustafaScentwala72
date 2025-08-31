@@ -22,7 +22,8 @@ I like turning raw data into clear answers and simple tools people can use.
 
 - **Accident Severity Prediction**  
   Supervised classification to predict accident severity from road, environment, and traffic features.  
-  Built a clean preprocessing pipeline, tuned models, and reported class-wise metrics with emphasis on recall for severe cases. 
+  Built a clean preprocessing pipeline, tuned models, and reported class-wise metrics with emphasis on recall for severe cases.
+  Repo: https://github.com/MustafaScentwala72/accident-severity-prediction-model
 
 - **MLP Learning-Rate Tuning (Nonlinear Regression)**  
   Single-hidden-layer MLP with a small learning-rate sweep; chosen rate balanced speed and generalisation.  
