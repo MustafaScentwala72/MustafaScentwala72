@@ -30,7 +30,8 @@ I like turning raw data into clear answers and simple tools people can use.
   Repo: https://github.com/MustafaScentwala72/mlp-learning-rate-tuning
 
 - **UAV Waypoint Navigation (Webots)**  
-  Decentralised control for 4 drones forming shapes; PID + Kalman filter for smooth flight.  
+  Decentralised control for 4 drones forming shapes; PID + Kalman filter for smooth flight.
+  Repo:  
 
 ## How I work
 - Start simple. Baselines first, then iterate.
