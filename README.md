@@ -28,7 +28,7 @@ I like turning raw data into clear answers and simple tools people can use.
 - **MLP Learning-Rate Tuning (Nonlinear Regression)**  
   Single-hidden-layer MLP with a small learning-rate sweep; chosen rate balanced speed and generalisation.  
   Reported R2 on test with a stable generalisation gap.
-  Repo: https://github.com/MustafaScentwala72/mlp-learning-rate-tuning
+ Repo: https://github.com/MustafaScentwala72/mlp-learning-rate-tuning
 
 - **UAV Waypoint Navigation (Webots)**  
   Decentralised control for 4 drones forming shapes; PID + Kalman filter for smooth flight.  
@@ -38,7 +38,7 @@ I like turning raw data into clear answers and simple tools people can use.
   Built a decision ready retail dashboard from Superstore with a star schema model (FactSales with Date, Customer, Product, Region).
   Created DAX measures for Total Sales, Orders, AOV, Returns Rate, YoY, and rolling 3M and 12M trends.
   Pages include Executive, Ops, Product, and Customer views with drill downs and slicers for fast analysis.
-  Repo: https://github.com/MustafaScentwala72/retail-kpis-powerbi
+ Repo: https://github.com/MustafaScentwala72/retail-kpis-powerbi
 
 ## How I work
 - Start simple. Baselines first, then iterate.
