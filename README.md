@@ -34,6 +34,12 @@ I like turning raw data into clear answers and simple tools people can use.
   Decentralised control for 4 drones forming shapes; PID + Kalman filter for smooth flight.  
   Repo: https://github.com/MustafaScentwala72/A-Waypoint-Navigation-System-For-Light-Shows-Using-UAVs
 
+- **Retail KPIs Dashboard (Power BI)**  
+  Built a decision ready retail dashboard from Superstore with a star schema model (FactSales with Date, Customer, Product, Region).
+  Created DAX measures for Total Sales, Orders, AOV, Returns Rate, YoY, and rolling 3M and 12M trends.
+  Pages include Executive, Ops, Product, and Customer views with drill downs and slicers for fast analysis.
+  Repo: https://github.com/MustafaScentwala72/retail-kpis-powerbi
+
 ## How I work
 - Start simple. Baselines first, then iterate.
 - Measure what matters. Pick metrics that match the goal (and explain them in plain English).
