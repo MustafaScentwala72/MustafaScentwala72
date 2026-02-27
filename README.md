@@ -29,8 +29,7 @@ I like turning raw data into clear answers and simple tools people can use.
   Single-hidden-layer MLP with a small learning-rate sweep; chosen rate balanced speed and generalisation.  
   Reported R2 on test with a stable generalisation gap.
 
-
-Repo: https://github.com/MustafaScentwala72/mlp-learning-rate-tuning
+  Repo: https://github.com/MustafaScentwala72/mlp-learning-rate-tuning
 
 - **UAV Waypoint Navigation (Webots)**  
   Decentralised control for 4 drones forming shapes; PID + Kalman filter for smooth flight.  
