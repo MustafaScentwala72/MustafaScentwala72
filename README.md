@@ -10,6 +10,7 @@ I like turning raw data into clear answers and simple tools people can use.
 ## Skills
 **Python:** pandas, NumPy, scikit-learn, Jupyter  
 **ML:** classification & regression, model evaluation (precision, recall, F1, ROC-AUC), cross-validation, hyperparameter tuning, Logistic Regression, Decision Trees, Random Forest, XGBoost  
+**SQL:** joins, group by, CTEs, window functions, data quality checks
 **Data:** cleaning, feature engineering, encoding, SMOTE, outlier handling  
 **BI & Viz:** Power BI, Excel basics  
 **Bonus:** Webots, PID control, Kalman filtering (UAV project)
